@@ -1,0 +1,55 @@
+/* AboutMe.css */
+
+.list-item {
+    margin-bottom: 10px; /* Adjust the value to control the spacing */
+  }
+ /* Change text color and font size */
+.custom-text {
+  color: #333;
+  font-size: 18px;
+}
+
+/* Bold text */
+.bold-text {
+  font-weight: bold;
+}
+/* Background color and padding for a container */
+.listContainerStyle {
+  background-color:gray;
+  padding: 20px;
+}
+/* Style for primary button */
+.primary-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style for secondary button */
+.secondary-button {
+  background-color: #fff;
+  color: #007bff;
+  padding: 10px 20px;
+  border: 2px solid #007bff;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+.primary-button:hover,
+.secondary-button:hover {
+  background-color: #0056b3;
+}
+/* Style for page header */
+.page-header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Style for section headers */
+.section-header {
+  font-size: 24px;
+  margin-bottom: 10px;
+} 
